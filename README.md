@@ -7,6 +7,9 @@ ReactJS, Redux
 ### Hosting 
 Web API on Azure, Database MS SQL Azure, Front-End Netlify.
 
+### Live Site
+https://indigomassage.netlify.app/
+
 ## Demonstration of web application 
 
 
