@@ -1,0 +1,26 @@
+[
+  {
+    "id": 1,
+    "name": "Sports Massage",
+    "description": "Sports massage is a specialized form of massage therapy that is designed to help athletes and active individuals improve their performance, prevent injury, and recover more quickly from training and competition.\r\n\r\nThis type of massage focuses on the specific needs of athletes and can be used before, during, and after athletic events. It can be used to help prepare the body for exercise by increasing circulation and flexibility, as well as to help relieve muscle tension and soreness after intense activity.\r\n\r\nDuring a sports massage, the therapist will use a variety of techniques to target specific muscle groups and soft tissues. These techniques may include deep tissue massage, trigger point therapy, stretching, and myofascial release. The therapist will work with you to identify areas of tension or discomfort and tailor the massage to your individual needs.",
+    "imageUrl": "https://indigomassage.blob.core.windows.net/indigo/%2452e0eacc-d77d-4e07-8074-ca36b998796d%24.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Back & Neck Massage ",
+    "description": "A back and neck massage is a type of massage therapy that focuses specifically on the muscles and soft tissues in the back and neck area. This type of massage is designed to help relieve tension, reduce pain, and improve circulation in these areas.\r\n\r\nDuring a back and neck massage, your therapist will use a variety of techniques to help release tension and promote relaxation. These techniques may include kneading, stroking, and applying pressure to specific areas of the back and neck. Your therapist may also use essential oils or other aromatherapy techniques to enhance your experience.\r\n\r\nA back and neck massage can be a great way to relieve stress and promote overall well-being. Whether you spend long hours sitting at a desk or engaging in physical activity, a back and neck massage can help you feel more relaxed, rejuvenated, and ready to take on the day.",
+    "imageUrl": "https://indigomassage.blob.core.windows.net/indigo/%247fe1ee48-4228-4a78-9666-34e36f882959%24.jpg"
+  },
+  {
+    "id": 3,
+    "name": "Cupping Therapy",
+    "description": "Cupping therapy is an alternative therapy that involves placing cups on the skin to create suction. This suction is thought to improve the flow of energy in the body and facilitate healing. Cupping therapy is one of the oldest and most effective methods of releasing toxins from body tissue and organs. It has been a key part of traditional Middle Eastern and Chinese medicine for thousands of years.\r\n\r\nCupping therapy is used to treat a variety of conditions, including muscle tension, chronic pain, fatigue, inflammation, and more. The therapist puts special cups on the skin to create suction.",
+    "imageUrl": "https://indigomassage.blob.core.windows.net/indigo/%241987e63d-f80c-49fc-8d29-7d1810374faf%24.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Remedial Massage",
+    "description": "Remedial Massage is a therapeutic massage technique that focuses on the assessment and treatment of musculoskeletal pain and dysfunction. Our experienced massage therapists use a range of techniques, including deep tissue massage, trigger point therapy, and myofascial release, to help alleviate pain, reduce tension, and restore mobility.\r\n\r\nDuring a Remedial Massage session, our therapists will conduct a thorough assessment of your condition to identify any areas of tension or pain. They will then tailor the massage to your specific needs, using a combination of techniques to target the affected areas.\r\n\r\nRemedial Massage is a highly effective treatment for a range of conditions, including back pain, neck pain, shoulder pain, headaches, and sports injuries. It can also be used as a preventative measure to help maintain optimal muscle and joint function.",
+    "imageUrl": "https://indigomassage.blob.core.windows.net/indigo/%242fb199ae-44c6-4b7e-94f6-5253c1ff2178%24.jpg"
+  }
+]

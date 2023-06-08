@@ -1,0 +1,44 @@
+﻿[
+  {
+    "id": 1,
+    "duration": 45,
+    "cost": 50,
+    "serviceId": 1
+  },
+  {
+    "id": 2,
+    "duration": 60,
+    "cost": 70,
+    "serviceId": 1
+  },
+  {
+    "id": 3,
+    "duration": 30,
+    "cost": 45,
+    "serviceId": 2
+  },
+  {
+    "id": 5,
+    "duration": 40,
+    "cost": 50,
+    "serviceId": 2
+  },
+  {
+    "id": 6,
+    "duration": 30,
+    "cost": 40,
+    "serviceId": 3
+  },
+  {
+    "id": 8,
+    "duration": 60,
+    "cost": 70,
+    "serviceId": 5
+  },
+  {
+    "id": 9,
+    "duration": 90,
+    "cost": 100,
+    "serviceId": 5
+  }
+]
