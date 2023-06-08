@@ -1,8 +1,11 @@
 # IndigoMassageProject
 ASP.NET Web API for Indigo Massage Web Application to Book and manage client bookings online
-Back-End: ASP.net Web API, N-Tier Arcitecture.
-Front-End(Not in this repository): ReactJS, Redux
-Hosting: Web API on Azure, Database MS SQL Azure, Front-End Netlify.
+### Back-End 
+ASP.net Web API, N-Tier Arcitecture.
+### Front-End(Not in this repository) 
+ReactJS, Redux
+### Hosting 
+Web API on Azure, Database MS SQL Azure, Front-End Netlify.
 
 ## Demonstration of web application 
 
