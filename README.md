@@ -1,6 +1,6 @@
 # IndigoMassageProject
 ASP.NET Web API for Indigo Massage Web Application to Book and manage client bookings online.
-This web api stream lines the booking process for my client who was currently taking bookings via facebook. 
+This web api is used with a reactJS front end. 
 ### Back-End 
 ASP.net Web API, N-Tier Arcitecture.
 ### Front-End(Not in this repository) 
